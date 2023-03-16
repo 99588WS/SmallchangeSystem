@@ -25,7 +25,7 @@ public class SmallChangeSysOop {
      * String -> StringBuilder
      */
     private final StringBuilder details = new StringBuilder("-------------零钱通明细-------------");
-    // 3 收益入账
+
     /**
      * 余额
      */
